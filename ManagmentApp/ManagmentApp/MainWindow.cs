@@ -15,6 +15,9 @@ namespace ManagmentApp
     static public AxXtremeSkinFramework.AxSkinFramework skinFramework;
     static public MainWindow This_ = null;
     string skinFolder;
+    public XtremeCommandBars.StatusBar StatusBar;
+   
+
 
 
     public MainWindow()
